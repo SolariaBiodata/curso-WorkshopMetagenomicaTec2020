@@ -1,10 +1,10 @@
 ---
 permalink: /sesion02.html
 ---
-![alt text](https://solariabiodata.com.mx/images/solaria_banner.png "Soluciones de Siguiente Generación")
+![alt text](resources/course-banner.png "Soluciones de Siguiente Generación")
 # Nextera DNA Workshop - Sesión de Filtro de Secuencias
 
-## Sesión Práctica del Día 04
+## Sesión Práctica
 
 ### Descripción
 En esta sesión aprenderemos lo necesario para evaluar la calidad de genotecas preparadas con la plataforma de Illumina, teniendo a consideración los formatos de archivos y cómo poder generar nuestras propias gráficas de calidad.

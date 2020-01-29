@@ -1,7 +1,7 @@
 ---
 permalink: /pilon.html
 ---
-![alt text](https://solariabiodata.com.mx/images/solaria_banner.png "Soluciones de Siguiente Generación")
+![alt text](resources/course-banner.png "Soluciones de Siguiente Generación")
 # Nextera DNA Workshop - Sesión Bonus de Asignación Taxonómica
 
 ## Sesión Práctica
