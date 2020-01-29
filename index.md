@@ -1,8 +1,8 @@
 ---
 permalink: /index.html
 ---
-![alt text](https://solariabiodata.com.mx/images/solaria_banner.png "Soluciones de Siguiente Generación")
-# Nextera DNA Workshop - Sesión de Control de Calidad
+![alt text](resources/course-banner.png "Soluciones de Siguiente Generación")
+# Nextera DNA Workshop - Sesión de Analisis Bioinformático
 
 ¡Hola! El equipo de Solaria Biodata te da la bienvenida a los ejercicios del curso que hemos preparado para tí :D
 ## Actividades
