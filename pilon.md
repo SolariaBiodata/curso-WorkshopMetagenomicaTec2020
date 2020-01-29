@@ -29,15 +29,16 @@ Utilizaremos como base, un programa que extrae genes marcadores de copia única
 
 ### Instrucciones
 1. Ejecutamos el siguiente comando en nuestra terminal
-        metaphlan2.py  sample_1_R1.fastq, sample_1_R2.fastq \
-        --mpa_pkl  ~/metaphlan2/metaphlan_databases/mpa_v20_m200.pkl \
-        --bowtie2db ~/metaphlan2/metaphlan_databases/mpa_v20_m200 \
-        --bt2_ps very-sensitive
-        --bowtie2out out_sample.bz2
-        --nproc 2
-        --input_type fastq
-        -o meta_sample_1.out
-
+    ~~~
+    metaphlan2.py  sample_1_R1.fastq, sample_1_R2.fastq \
+    --mpa_pkl  ~/metaphlan2/metaphlan_databases/mpa_v20_m200.pkl \
+    --bowtie2db ~/metaphlan2/metaphlan_databases/mpa_v20_m200 \
+    --bt2_ps very-sensitive
+    --bowtie2out out_sample.bz2
+    --nproc 2
+    --input_type fastq
+    -o meta_sample_1.out
+    ~~~
 ## Ejercicio 02: Generación de Krona
 
 ### Descripción
