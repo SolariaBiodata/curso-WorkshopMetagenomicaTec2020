@@ -44,7 +44,12 @@ Utilizaremos como base, un programa que extrae genes marcadores de copia única
 Por último, de la tabla generada por el programa anterior, realizaremos un diagrama circular donde podremos ver la abundancia a diferentes niveles taxonómicos, con Krona.
 ### Instrucciones
 1. Transformaremos la tabla generada anteriormente con
-        ~/metaphlan2/utils/metaphlan2krona.py -p sample1_metaphlan.txt -k meta_sample_1.out
+    ~~~
+    metaphlan2krona.py -p sample1_metaphlan.txt \
+     -k meta_sample_1.out
+    ~~~
 2. Para generar nuestro diagrama
-        ktImportText -o  sample_1_krona.html   meta_sample_1.out
+    ~~~
+    ktImportText -o  sample_1_krona.html   meta_sample_1.out
+    ~~~
 3. Por último, podemos ver nuestro archivo desde el navegador preferido
